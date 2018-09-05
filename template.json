@@ -1,0 +1,13 @@
+{
+    "name": "XYZ",
+    "age": 24,
+    "education": {
+        "college": "ppppp",
+        "study": "b.tech",
+        "grade": 6.8
+    },
+    "friends": ["kkkk",
+    "bbbbbbbbbbb",
+    "jjjjjj"],
+    "dob":"01-08-1990"
+}
